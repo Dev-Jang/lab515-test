@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        LAB515
       image:
         filename: welcome.jpg
       text: |
